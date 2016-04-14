@@ -1,0 +1,15 @@
+D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider_tb.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider_tb.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module frequency_divider_tb
+
+Top level modules:
+	frequency_divider_tb
+
+} {} {}} D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module frequency_divider
+
+Top level modules:
+	frequency_divider
+
+} {} {}}

@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+cModel Technology
+dD:\FPGA\altera13.0project\three_state\sim
+!i10d 8192
+!i10e 25
+!i10f 100
+vfrequency_divider
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+IBjSgVd4_fagcg015O>D]f2
+Z1 dD:\FPGA\altera13.0project\frequency_divider\sim
+w1460635872
+8D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider.v
+FD:/FPGA/altera13.0project/frequency_divider/design/frequency_divider.v
+L0 1
+Z2 OL;L;10.2;57
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 nQRlRiD9Tj:gA2QU3gjIO2
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider.v|
+!s108 1460642162.431000
+!s107 D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider.v|
+!i10b 1
+vfrequency_divider_tb
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+IUb_neU`_L^oGgnTIH87b@2
+R1
+w1460642157
+8D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider_tb.v
+FD:/FPGA/altera13.0project/frequency_divider/design/frequency_divider_tb.v
+L0 3
+R2
+R3
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider_tb.v|
+!i10b 1
+!s100 kEl=11[>FW7Pb`_S4;8?Z0
+!s108 1460642162.544000
+!s107 D:/FPGA/altera13.0project/frequency_divider/design/frequency_divider_tb.v|
