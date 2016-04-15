@@ -8,7 +8,7 @@ module		frequency_divider_tb;
 	
 initial
 	begin
-		clk		=	0;
+		clk	=	0;
 		rst_n	=	0;
 		#200
 		rst_n	=	1;
